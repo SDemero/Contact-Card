@@ -21,7 +21,7 @@ class App extends Component {
       <br/>
       <Contact name="D3p4k"
       cellphone="(718)-353-0292"
-      email="jackie@gmail.com"
+      email="de3p4k@gmail.com"
       workPhone="(718)-244-2653"
       />
       </div>
